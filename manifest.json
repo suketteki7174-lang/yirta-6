@@ -1,0 +1,29 @@
+
+{
+  "id": "/tirta5/",
+  "name": "TIRTA BINAKAL",
+  "short_name": "Tirta Binakal",
+  "description": "Sistem Informasi Pengelolaan Air Bersih Desa Binakal untuk mengelola pelanggan, pencatatan meter air, tagihan, pembayaran, dan laporan.",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "start_url": "/tirta5/",
+  "scope": "/tirta5/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0878d1",
+  "background_color": "#eaf8fc",
+  "icons": [
+    {
+      "src": "/tirta5/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tirta5/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
